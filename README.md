@@ -9,8 +9,7 @@ Entwicklungsplatform: Windows 11
 
 
 Habe 1x Clone ausgeführt ändere Readme und Pushe Daten zurück
-
-
+Jetzt möchte ich die online änderung auch lokal haben.
 
 Lessons learned
 
